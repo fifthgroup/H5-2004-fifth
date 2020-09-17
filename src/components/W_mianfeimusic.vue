@@ -6,7 +6,7 @@
                 <li v-for="(book,v) in books" :key="v">
                     <img :src="'http://47.96.140.89:8080/ssm-1.0-SNAPSHOT'+book.resource_pic">
                     <p>{{book.resource_name}}</p>
-                </li>
+            </li>
           </router-link>
       </ul>
   </div>

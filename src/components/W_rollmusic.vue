@@ -24,7 +24,7 @@ export default {
             url:"/ssm-1.0-SNAPSHOT/resource/findByResource_id/?findByResource_id=20",
             method:"get"
         }).then((res)=>{
-            this.books=res.data;
+            this.books=res.data.data;
             // console.log(this.books)
         })
     }

@@ -3,7 +3,7 @@
     <div class="box">
       <div class="box_left">
         <div class="box_left_left">
-          <img src="../assets/accountImages/account01.jpg" alt />
+          <img src="../assets/img/yinyue.jpg" />
         </div>
         <div class="box_left_right">
           <h2 class="userName">听友25545</h2>
@@ -58,6 +58,8 @@ export default {
 }
 .box_left .box_left_left img{
     width: 100%;
+    height: 100%;
+    border-radius: 50%;
 }
 .box_left .box_left_right{
     display: flex;

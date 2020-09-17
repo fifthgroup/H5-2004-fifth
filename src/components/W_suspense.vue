@@ -21,10 +21,10 @@ export default {
     },
     created(){
         axios({
-            url:"/ssm-1.0-SNAPSHOT/resource/findByResource_id/?findByResource_id=7",
+            url:"/ssm-1.0-SNAPSHOT/resource/findByResource_id/?findByResource_id=6",
             method:"get"
         }).then((res)=>{
-            this.books=res.data;
+            this.books=res.data.data;
             // console.log(this.books)
         })
     }

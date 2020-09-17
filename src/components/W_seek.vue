@@ -3,11 +3,11 @@
         <ul class="box">
             <li class="iconfont icon-zuojiantou" @click="fn"></li>
             <li>
-                <input type="text" placeholder="你莫走"/>
+                <input type="text" v-model="msg" placeholder="你莫走"/>
                 <span class="iconfont icon-fangdajingsousuo"></span>
                 <i class="iconfont icon-yuyin"></i>
             </li>
-            <router-link to="/goods">搜索</router-link>
+            <router-link :to="'/goods/'+this.msg">搜索</router-link>
         </ul>
     </div>
 </template>
@@ -15,6 +15,11 @@
 <script>
 export default {
     name:"wseek",
+    data(){
+        return {
+            msg: ""
+        }
+    },
     methods:{
         fn(){
             this.$router.go(-1)
@@ -47,7 +52,7 @@ export default {
         height: 0.4rem;
         border-radius:0.2rem;
         border: none;
-        background-color:#ccc;
+        background-color:#f3f4f6;
         padding-left: 14%;
         box-sizing: border-box;
     }

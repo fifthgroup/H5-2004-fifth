@@ -43,7 +43,7 @@ export default {
     axios({
      url: "http://47.96.140.89:8080/ssm-1.0-SNAPSHOT/lbt/findById?lbt_id=3"
     }).then(res => {
-      this.banerImgs = res.data.data[0];
+      this.imgObj = res.data.data[0];
       console.log(res.data.data[0])
       this.$nextTick(() => {
         // console.log(this);

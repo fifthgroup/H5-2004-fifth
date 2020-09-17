@@ -1,0 +1,632 @@
+{ 
+     
+        "find":[
+            {"resource_pic":"img/ting/0.jpg","resource_name":"【剧评摩天大楼】死者与我..."},
+            {"resource_pic":"img/ting/1.jpg","resource_name":"中印两军边境再次对持 印度有.."},
+            {"resource_pic":"img/ting/2.jpg","resource_name":"医者初心│钟南山哽咽说什么...."},
+            {"resource_pic":"img/ting/3.jpg","resource_name":"放松大脑，懂得休息大脑才能..."},
+            {"resource_pic":"img/ting/4.jpg","resource_name":"多等5分钟?谁该关爱骑手，外...."},
+            {"resource_pic":"img/ting/5.jpg","resource_name":"焦虑，压力大，睡不着，应该..."},
+            {"resource_pic":"img/ting/6.jpg","resource_name":"治愈吉他|放松减压，工作间隙..."},
+            {"resource_pic":"img/ting/7.jpg","resource_name":"伟人传记│关于开国功臣，你..."},
+            {"resource_pic":"img/ting/8.jpg","resource_name":"性，不该成为女孩的禁忌"},
+            {"resource_pic":"img/ting/9.jpg","resource_name":"冷知识│睡硬板床真的对腰椎..."},
+            {"resource_pic":"img/ting/10.jpg","resource_name":"国际名校│剑桥哈佛名校书单..."},
+            {"resource_pic":"img/ting/11.jpg","resource_name":"大自然天然氧吧，带你逃离..."},
+            {"resource_pic":"img/ting/12.jpg","resource_name":"好好照顾自己|心理学、情绪...."},
+            {"resource_pic":"img/ting/13.jpg","resource_name":"好好度过这一生|凡心所向，..."},
+            {"resource_pic":"img/ting/14.jpg","resource_name":"白露至，宜养生，中医专家..."},
+            {"resource_pic":"img/ting/15.jpg","resource_name":"节约粮食的新姿势，你get了吗?"},
+            {"resource_pic":"img/ting/16.jpg","resource_name":"烧脑科幻大片【信条】观影..."},
+            {"resource_pic":"img/ting/17.jpg","resource_name":"累了就听听诗与远方|中国近现..."},
+            {"resource_pic":"img/ting/18.jpg","resource_name":"愿你习得爱人的能力|好好爱，..."},
+            {"resource_pic":"img/ting/19.jpg","resource_name":"一天有48个小时|时间管理，成...."},
+            {"resource_pic":"img/ting/20.jpg","resource_name":"乐队的夏天│最值得爱的乐队..."}
+    
+        ],
+        "xiansheng":[
+             {"rd_id":"001","rd_content":"《败家子儿》 郭德纲 于谦","resource_pic":"img/pai/xinre/2.jpg","mp3":"img/xiangsheng/1.mp3"}, 
+             {"rd_id":"002","rd_content":"《扒马褂》郭德纲 于谦","resource_pic":"img/pai/xinre/2.jpg","mp3":"img/xiangsheng/2.mp3"},
+             {"rd_id":"003","rd_content":"《文史专家》郭德纲 于谦","resource_pic":"img/pai/xinre/2.jpg","mp3":"img/xiangsheng/3.mp3"}, 
+             {"rd_id":"004","rd_content":"《东游记》郭德纲 于谦","resource_pic":"img/pai/xinre/2.jpg","mp3":"img/xiangsheng/4.mp3"},
+             {"rd_id":"005","rd_content":"《人在江湖》郭德纲 于谦","resource_pic":"img/pai/xinre/2.jpg","mp3":"img/xiangsheng/5.mp3"}, 
+             {"rd_id":"006","rd_content":"《老师来了》郭德纲 于谦 高峰","resource_pic":"img/pai/xinre/2.jpg","mp3":"img/xiangsheng/6.mp3"},
+             {"rd_id":"007","rd_content":"《朋友论》郭德纲 于谦","resource_pic":"img/pai/xinre/2.jpg","mp3":"img/xiangsheng/7.mp3"}, 
+             {"rd_id":"008","rd_content":"《买五器》郭德纲 于谦","resource_pic":"img/pai/xinre/2.jpg","mp3":"img/xiangsheng/8.mp3"},
+             {"rd_id":"009","rd_content":"《贴身大丫鬟》郭德纲 于谦","resource_pic":"img/pai/xinre/2.jpg","mp3":"img/xiangsheng/9.mp3"}, 
+             {"rd_id":"010","rd_content":"《歪唱太平词》郭德纲 郭麒麟","resource_pic":"img/pai/xinre/2.jpg","mp3":"img/xiangsheng/1.mp3"},
+             {"rd_id":"011","rd_content":"《西厢》郭德纲 郭麒麟 陶阳","resource_pic":"img/pai/xinre/2.jpg","mp3":"img/xiangsheng/2.mp3"}, 
+             {"rd_id":"012","rd_content":"《大实话》德云社全体","resource_pic":"img/pai/xinre/2.jpg","mp3":"img/xiangsheng/3.mp3"},
+             {"rd_id":"013","rd_content":"《潘洋讼》郭鹤鸣 郭德纲","resource_pic":"img/pai/xinre/2.jpg","mp3":"img/xiangsheng/4.mp3"}, 
+             {"rd_id":"014","rd_content":"《浪的难受》郭德纲 于谦","resource_pic":"img/pai/xinre/2.jpg","mp3":"img/xiangsheng/5.mp3"},
+             {"rd_id":"015","rd_content":"《攀比》烧饼 曹鹤阳","resource_pic":"img/pai/xinre/2.jpg","mp3":"img/xiangsheng/6.mp3"}, 
+             {"rd_id":"016","rd_content":"《摇篮曲》孔云龙 李云杰","resource_pic":"img/pai/xinre/2.jpg","mp3":"img/xiangsheng/7.mp3"},
+             {"rd_id":"017","rd_content":"《如此相声》烧饼 曹鹤阳","resource_pic":"img/pai/xinre/2.jpg","mp3":"img/xiangsheng/8.mp3"}, 
+             {"rd_id":"018","rd_content":"《说学逗胖》闫云达 刘吉","resource_pic":"img/pai/xinre/2.jpg","mp3":"img/xiangsheng/9.mp3"},
+             {"rd_id":"019","rd_content":"《返场》全体","resource_pic":"img/pai/xinre/2.jpg","mp3":"img/xiangsheng/1.mp3"}
+        ],
+        "xiaoshuo":[
+            {"rd_id":"001","rd_content":"三体导读|初读三体必看","resource_pic":"img/santi.jpg","mp3":"img/xiaoshuo/1.mp3"}, 
+            {"rd_id":"002","rd_content":"开刊词","resource_pic":"img/santi.jpg","mp3":"img/xiaoshuo/2.mp3"},
+            {"rd_id":"003","rd_content":"速读地球往事(上)","resource_pic":"img/santi.jpg","mp3":"img/xiaoshuo/3.mp3"}, 
+            {"rd_id":"004","rd_content":"速读地球往事（下)","resource_pic":"img/santi.jpg","mp3":"img/xiaoshuo/4.mp3"},
+            {"rd_id":"005","rd_content":"速读黑暗森林（上)","resource_pic":"img/santi.jpg","mp3":"img/xiaoshuo/5.mp3"}, 
+            {"rd_id":"006","rd_content":"速读黑喑森林（中)","resource_pic":"img/santi.jpg","mp3":"img/xiaoshuo/6.mp3"},
+            {"rd_id":"007","rd_content":"速读黑暗森林（下)","resource_pic":"img/santi.jpg","mp3":"img/xiaoshuo/7.mp3"}, 
+            {"rd_id":"008","rd_content":"速读死神永生(上)","resource_pic":"img/santi.jpg","mp3":"img/xiaoshuo/8.mp3"},
+            {"rd_id":"009","rd_content":"速读死神永生(中)","resource_pic":"img/santi.jpg","mp3":"img/xiaoshuo/9.mp3"}, 
+            {"rd_id":"010","rd_content":"速读死神永生（下)","resource_pic":"img/santi.jpg","mp3":"img/xiaoshuo/1.mp3"},
+            {"rd_id":"011","rd_content":"人类与未知的“他者”","resource_pic":"img/santi.jpg","mp3":"img/xiaoshuo/2.mp3"}, 
+            {"rd_id":"012","rd_content":"《三体》中对未来人类的预演与老鼠实验","resource_pic":"img/santi.jpg","mp3":"img/xiaoshuo/3.mp3"},
+            {"rd_id":"013","rd_content":"《三体》中的人性，英雄人物的悲剧下场","resource_pic":"img/santi.jpg","mp3":"img/xiaoshuo/4.mp3"}, 
+            {"rd_id":"014","rd_content":"人类对文化的自恋样态真可笑","resource_pic":"img/santi.jpg","mp3":"img/xiaoshuo/5.mp3"},
+            {"rd_id":"015","rd_content":"什么是宗教?","resource_pic":"img/santi.jpg","mp3":"img/xiaoshuo/6.mp3"}, 
+            {"rd_id":"016","rd_content":"宗教观念和宗教体验(上)","resource_pic":"img/santi.jpg","mp3":"img/xiaoshuo/7.mp3"},
+            {"rd_id":"017","rd_content":"宗教行为与宗教制度（下)","resource_pic":"img/santi.jpg","mp3":"img/xiaoshuo/8.mp3"}, 
+            {"rd_id":"018","rd_content":"古代国家民族宗教的起源与发展","resource_pic":"img/santi.jpg","mp3":"img/xiaoshuo/9.mp3"},
+            {"rd_id":"019","rd_content":"儒家是不是宗教？","resource_pic":"img/santi.jpg","mp3":"img/xiaoshuo/1.mp3"}
+       ],
+       "yinyue":[
+        {"rd_id":"001","rd_content":"美人外史","resource_pic":"img/yinyue.jpg","mp3":"img/yinyue/1.mp3"}, 
+        {"rd_id":"002","rd_content":"JOY爱唱歌","resource_pic":"img/yinyue.jpg","mp3":"img/yinyue/2.mp3"},
+        {"rd_id":"003","rd_content":"关山酒","resource_pic":"img/yinyue.jpg","mp3":"img/yinyue/3.mp3"}, 
+        {"rd_id":"004","rd_content":"赤伶","resource_pic":"img/yinyue.jpg","mp3":"img/yinyue/4.mp3"},
+        {"rd_id":"005","rd_content":"心做L","resource_pic":"img/yinyue.jpg","mp3":"img/yinyue/5.mp3"}, 
+        {"rd_id":"006","rd_content":"海底","resource_pic":"img/yinyue.jpg","mp3":"img/yinyue/6.mp3"},
+        {"rd_id":"007","rd_content":"打上花火","resource_pic":"img/yinyue.jpg","mp3":"img/yinyue/7.mp3"}, 
+        {"rd_id":"008","rd_content":"Alibi ","resource_pic":"img/yinyue.jpg","mp3":"img/yinyue/8.mp3"},
+        {"rd_id":"009","rd_content":"Enemy","resource_pic":"img/yinyue.jpg","mp3":"img/yinyue/9.mp3"}, 
+        {"rd_id":"010","rd_content":"方十二-望月","resource_pic":"img/yinyue.jpg","mp3":"img/yinyue/10.mp3"},
+        {"rd_id":"011","rd_content":"美人外史","resource_pic":"img/yinyue.jpg","mp3":"img/yinyue/1.mp3"}, 
+        {"rd_id":"012","rd_content":"JOY爱唱歌","resource_pic":"img/yinyue.jpg","mp3":"img/yinyue/2.mp3"},
+        {"rd_id":"013","rd_content":"关山酒","resource_pic":"img/yinyue.jpg","mp3":"img/yinyue/3.mp3"}, 
+        {"rd_id":"014","rd_content":"赤伶","resource_pic":"img/yinyue.jpg","mp3":"img/yinyue/4.mp3"},
+        {"rd_id":"015","rd_content":"心做L","resource_pic":"img/yinyue.jpg","mp3":"img/yinyue/5.mp3"}, 
+        {"rd_id":"016","rd_content":"海底","resource_pic":"img/yinyue.jpg","mp3":"img/yinyue/6.mp3"},
+        {"rd_id":"017","rd_content":"打上花火","resource_pic":"img/yinyue.jpg","mp3":"img/yinyue/7.mp3"}, 
+        {"rd_id":"018","rd_content":"Alibi","resource_pic":"img/yinyue.jpg","mp3":"img/yinyue/8.mp3"},
+        {"rd_id":"019","rd_content":"Enemy","resource_pic":"img/yinyue.jpg","mp3":"img/xiaoshyinyueuo/9.mp3"}
+    ],
+        "xinre":[
+            {"resource_pic":"img/pai/xinre/1.jpg" ,"resource_name": "辽沈先声","resource_intro":"最近更新:全国新增确..."},
+            {"resource_pic":"img/pai/xinre/2.jpg" ,"resource_name": "郭德纲21年相声精选","resource_intro":"持续收录郭德纲..."},
+            {"resource_pic":"img/pai/xinre/3.jpg" ,"resource_name": "南都快讯","resource_intro":"开学遇上火灾!上海..."},
+            {"resource_pic":"img/pai/xinre/4.jpg" ,"resource_name": "鲜快报","resource_intro":"最近更新:和杜星霖结婚证..."},
+            {"resource_pic":"img/pai/xinre/5.jpg" ,"resource_name": "摸金天师（紫襟演播)","resource_intro":"新盗墓故事:盗墓手札..."},
+            {"resource_pic":"img/pai/xinre/6.jpg" ,"resource_name": "米小圈上学记:一二三年级","resource_intro":"米小圈上学记番外篇..."},
+            {"resource_pic":"img/pai/xinre/7.jpg" ,"resource_name": "一点资讯","resource_intro":"山火肆虐美国西海岸..."},
+            {"resource_pic":"img/pai/xinre/8.jpg" ,"resource_name": "郭德纲相声经典","resource_intro":"最近更新:《歪唱太平歌词》..."},
+            {"resource_pic":"img/pai/xinre/9.jpg" ,"resource_name": "海外网讯","resource_intro":"脸书将欧洲用户数据传..."},
+            {"resource_pic":"img/pai/xinre/10.jpg" ,"resource_name": "听，中国的天气","resource_intro":"最近更新:20200913北方新..."}
+    
+        ],
+        "xinyou":[
+            {"resource_pic":"img/pai/xinyou/1.jpg" ,"resource_name": "摸金天师（紫襟演播)","resource_intro":"新盗墓故事:盗墓手札..."},
+            {"resource_pic":"img/pai/xinyou/2.jpg" ,"resource_name": "猎罪者(阴间神探│有声的紫襟)","resource_intro":"新盗墓故事:盗墓手札..."},
+            {"resource_pic":"img/pai/xinyou/3.jpg" ,"resource_name": "王的女人谁敢动│爆笑古言穿越","resource_intro":"《王的女人谁敢动》1106相差..."},
+            {"resource_pic":"img/pai/xinyou/4.jpg" ,"resource_name": "绝世高手【头陀渊】","resource_intro":"【强烈推荐】·《绝世高手》是一部..."},
+            {"resource_pic":"img/pai/xinyou/5.jpg" ,"resource_name": "中国民间故事（霄旭演播)","resource_intro":"【霄旭新专辑上线】..."},
+            {"resource_pic":"img/pai/xinyou/6.jpg" ,"resource_name": "雪中悍刀行│大斌","resource_intro":"雪中姊妹篇《剑来》已上架..."},
+            {"resource_pic":"img/pai/xinyou/7.jpg" ,"resource_name": "荒村阴阳师","resource_intro":"【内容简介】俺们村儿有个阴阳师.."},
+            {"resource_pic":"img/pai/xinyou/8.jpg" ,"resource_name": "老衲要还俗（上）免费│爆笑文","resource_intro":"搜索:《老衲要还俗下》..."},
+            {"resource_pic":"img/pai/xinyou/9.jpg" ,"resource_name": "金瓶梅（国家─级播音员免费版)","resource_intro":"金瓶京文022武大走了(4)..."},
+            {"resource_pic":"img/pai/xinyou/10.jpg" ,"resource_name": "极品天师│都市玄幻道士下山","resource_intro":"《极品天师》696集-成大道..."}
+        ],
+        "changre":[
+            {"resource_pic":"img/pai/changre/1.jpg" ,"resource_name": "热点新鲜播","resource_intro":"华为Watch GT 2 Pro正式发布..."},
+            {"resource_pic":"img/pai/changre/2.jpg" ,"resource_name": "权威发布","resource_intro":"习近平主持召开中央财经..."},
+            {"resource_pic":"img/pai/changre/3.jpg" ,"resource_name": "财经快讯60秒","resource_intro":"21世纪经济报道│财经快讯..."},
+            {"resource_pic":"img/pai/changre/4.jpg" ,"resource_name": "五分钟读懂朋友圈","resource_intro":"“多等5分钟”和“高兴的715”..."},
+            {"resource_pic":"img/pai/changre/5.jpg" ,"resource_name": "海浪白噪音声谷大自然的声音","resource_intro":"这是一张纯海浪声音，..."},
+            {"resource_pic":"img/pai/changre/6.jpg" ,"resource_name": "上海发布","resource_intro":"最近更新:9月12日上海无新增本地新..."},
+            {"resource_pic":"img/pai/changre/7.jpg" ,"resource_name": "心灵之约","resource_intro":"公众微信:心灵之约FM我是晨晨，愿意做你..."},
+            {"resource_pic":"img/pai/changre/8.jpg" ,"resource_name": "热乎知乎","resource_intro":"注意了!以后领证需要宣..."},
+            {"resource_pic":"img/pai/changre/9.jpg" ,"resource_name": "投资理财从入门到精通","resource_intro":"牛市的六大典型特征..."},
+            {"resource_pic":"img/pai/changre/10.jpg" ,"resource_name": "每天一首亲子陪伴纯音乐","resource_intro":"Day1-古典音乐│感受生命..."}
+        ],
+        "changyou":[
+            {"resource_pic":"img/pai/changyou/1.jpg" ,"resource_name": "永生之路（免费版)","resource_intro":"最近更新:第315集..."},
+            {"resource_pic":"img/pai/changyou/2.jpg" ,"resource_name": "天网│大案纪实","resource_intro":"最近更新:水井里的秘密..."},
+            {"resource_pic":"img/pai/changyou/3.jpg" ,"resource_name": "一不小心嫁了总裁","resource_intro":"436霍廷琛真的是好算计..."},
+            {"resource_pic":"img/pai/changyou/4.jpg" ,"resource_name": "—号嫌疑人","resource_intro":"—号嫌疑人34(完结)..."},
+            {"resource_pic":"img/pai/changyou/5.jpg" ,"resource_name": "大案纪实【刑侦档案】","resource_intro":"大案纪实..."},
+            {"resource_pic":"img/pai/changyou/6.jpg" ,"resource_name": "我的微信连三界|爆笑双播","resource_intro":"我的微信连三界..."},
+            {"resource_pic":"img/pai/changyou/7.jpg" ,"resource_name": "总裁的冒牌新娘","resource_intro":"有声小说:总裁的冒牌新娘..."},
+            {"resource_pic":"img/pai/changyou/8.jpg" ,"resource_name": "冰山总裁:恋上亿万小娇妻","resource_intro":"冰山总裁恋上亿万小娇妻.."},
+            {"resource_pic":"img/pai/changyou/9.jpg" ,"resource_name": "妾色","resource_intro":"她是天下第一美人，大婚..."},
+            {"resource_pic":"img/pai/changyou/10.jpg" ,"resource_name": "无心法师","resource_intro":"有声小说：无心法师..."}
+        ],
+        "liuwei":[
+            {"resource_name":123546}
+        ],
+    
+
+
+
+
+
+
+
+
+        "homepageNav": [
+            "推荐",
+            "VIP",
+            "小说",
+            "直播",
+            "儿童",
+            "少儿教育",
+            "播客",
+            "西安",
+            "广播",
+            "精品",
+            "相声评书",
+            "头条",
+            "人文",
+            "历史",
+            "娱乐"
+        ],
+        "lbt_pic": [
+            {"pic1":"homepageImages/banner01.jpg"},
+            {"pic2":"homepageImages/banner02.jpg"},
+            {"pic3":"homepageImages/banner03.jpg"},
+            {"pic4":"homepageImages/banner04.jpg"}
+        ],
+        "underList": [
+            {
+                "img": "homepageImages/homepage01.jpg",
+                "val": "经典必听"
+            },
+            {
+                "img": "homepageImages/homepage02.jpg",
+                "val": "每日必听"
+            },
+            {
+                "img": "homepageImages/homepage03.jpg",
+                "val": "助眠解压"
+            },
+            {
+                "img": "homepageImages/homepage04.jpg",
+                "val": "随便听"
+            },
+            {
+                "img": "homepageImages/homepage05.jpg",
+                "val": "情感生活"
+            },
+            {
+                "img": "homepageImages/homepage06.jpg",
+                "val": "免费小说"
+            },
+            {
+                "img": "homepageImages/homepage07.jpg",
+                "val": "热门音乐"
+            },
+            {
+                "img": "homepageImages/homepage08.jpg",
+                "val": "相声评书"
+            },
+            {
+                "img": "homepageImages/homepage09.jpg",
+                "val": "笑话段子"
+            },
+            {
+                "img": "homepageImages/homepage10.jpg",
+                "val": "英语学习"
+            }
+        ],
+        "likeList": [
+            {
+                "resource_pic": "homepageImages/homepage11.jpg",
+                "resource_name": "历年精华相声，总有..."
+            },
+            {
+                "resource_pic": "homepageImages/homepage12.jpg",
+                "resource_name": "《全职高手》网游..."
+            },
+            {
+                "resource_pic": "homepageImages/homepage13.jpg",
+                "resource_name": "仙武帝尊（粉丝福利免..."
+            },
+            {
+                "resource_pic": "homepageImages/homepage14.jpg",
+                "resource_name": "中国历史未解之迷【第..."
+            },
+            {
+                "resource_pic": "homepageImages/homepage15.jpg",
+                "resource_name": "【经典】单田芳《乱世..."
+            },
+            {
+                "resource_pic": "homepageImages/homepage16.jpg",
+                "resource_name": "小岳岳一句一个小点，笑..."
+            },
+            {
+                "resource_pic": "homepageImages/homepage17.jpg",
+                "resource_name": "失眠按摩：听着雨声..."
+            },
+            {
+                "resource_pic": "homepageImages/homepage18.jpg",
+                "resource_name": "风靡小学校园、好玩的..."
+            },
+            {
+                "resource_pic": "homepageImages/homepage19.jpg",
+                "resource_name": "如果月亮不抱你|现代..."
+            },
+            {
+                "resource_pic": "homepageImages/homepage20.jpg",
+                "resource_name": "总裁的替身新娘 免费|..."
+            },
+            {
+                "resource_pic": "homepageImages/homepage21.jpg",
+                "resource_name": "夜听|一段话说尽人心..."
+            },
+            {
+                "resource_pic": "homepageImages/homepage22.jpg",
+                "resource_name": "段子来了采采..."
+            }
+        ],
+        "audioList": [
+            {
+                "resource_pic": "homepageImages/homepage23.jpg",
+                "resource_name": "华语经典老歌集",
+                "resource_val": "老歌如酒，岁月沉香"
+            },
+            {
+                "resource_pic": "homepageImages/homepage24.jpg",
+                "resource_name": "王的女人谁敢动|爆笑古言穿越",
+                "resource_val": "北慕国战神的一夜奇遇，她从此无处而逃"
+            },
+            {
+                "resource_pic": "homepageImages/homepage25.jpg",
+                "resource_name": "郭德纲.于谦 相声集",
+                "resource_val": "德云社 郭德纲 于谦相声作品"
+            },
+            {
+                "resource_pic": "homepageImages/homepage26.jpg",
+                "resource_name": "【经典】 单田芳《乱世枭雄》",
+                "resource_val": "张作霖和张学良的传奇故事"
+            },
+            {
+                "resource_pic": "homepageImages/homepage27.jpg",
+                "resource_name": "解读人性的弱点-卡耐基",
+                "resource_val": "最实用的沟通与社交技巧"
+            }
+        ],
+        "listenList": [
+            {
+                "resource_pic": "listenImages/listen01.jpg",
+                "resource_name": "一禅心灵庙语",
+                "resource_intro": "根据你的兴趣推荐"
+            },
+            {
+                "resource_pic": "listenImages/listen02.jpg",
+                "resource_name": "民间鬼故事|胆小勿入",
+                "resource_intro": "根据《民间鬼故..."
+            },
+            {
+                "resource_pic": "listenImages/listen03.jpg",
+                "resource_name": "岳云鹏孙越爆笑相声",
+                "resource_intro": "根据你的兴趣推荐"
+            },
+            {
+                "resource_pic": "listenImages/listen04.jpg",
+                "resource_name": "雨和雷声睡眠的声音",
+                "resource_intro": "根据你的兴趣推荐"
+            },
+            {
+                "resource_pic": "listenImages/listen05.jpg",
+                "resource_name": "只想一个人听",
+                "resource_intro": "根据你的兴趣推荐"
+            },
+            {
+                "resource_pic": "listenImages/listen06.jpg",
+                "resource_name": "经典老歌",
+                "resource_intro": "根据经典老歌推荐"
+            },
+            {
+                "resource_pic": "listenImages/listen07.jpg",
+                "resource_name": "会说话的女人最强大",
+                "resource_intro": "根据你的兴趣推荐"
+            },
+            {
+                "resource_pic": "listenImages/listen08.jpg",
+                "resource_name": "三国演义",
+                "resource_intro": "根据四大名著推荐"
+            },
+            {
+                "resource_pic": "listenImages/listen09.jpg",
+                "resource_name": "岳云鹏|孙越相声集",
+                "resource_intro": "根据德云社相声推荐"
+            }
+        ],
+        "videoList": [
+            {
+                "rd_path": "videoImages/video01.mp4",
+                "rd_content": "为什么男人的手不能伸太长"
+            },
+            {
+                "rd_path": "videoImages/video02.mp4",
+                "rd_content": "中国新说唱"
+            },
+            {
+                "rd_path": "videoImages/video03.mp4",
+                "rd_content": "#给你们看下我以前有多帅#"
+            },
+            {
+                "rd_path": "videoImages/video04.mp4",
+                "rd_content": "离我远点"
+            },
+            {
+                "rd_path": "videoImages/video05.mp4",
+                "rd_content": "张艺兴 孙红雷"
+            },
+            {
+                "rd_path": "videoImages/video06.mp4",
+                "rd_content": "峡谷绝活哥"
+            },
+            {
+                "rd_path": "videoImages/video07.mp4",
+                "rd_content": "蕾哈娜的眼里只有詹姆斯"
+            },
+            {
+                "rd_path": "videoImages/video08.mp4",
+                "rd_content": "建议收藏起来一个人偷偷看"
+            }
+        ],
+        "accountList": [
+            {
+                "type":"我的服务",
+                "data":[
+                    {
+                        "resource_pic": "accountImages/service01.jpg",
+                        "resource_name": "我的钱包"
+                    },
+                    {
+                        "resource_pic": "accountImages/service02.jpg",
+                        "resource_name": "我的订单"
+                    },
+                    {
+                        "resource_pic": "accountImages/service03.jpg",
+                        "resource_name": "我的等级"
+                    },
+                    {
+                        "resource_pic": "accountImages/service04.jpg",
+                        "resource_name": "咔嚓笔记"
+                    },
+                    {
+                        "resource_pic": "accountImages/service05.jpg",
+                        "resource_name": "我的听友圈"
+                    },
+                    {
+                        "resource_pic": "accountImages/service06.jpg",
+                        "resource_name": "推荐有礼"
+                    },
+                    {
+                        "resource_pic": "accountImages/service07.jpg",
+                        "resource_name": "联系客服"
+                    }
+                ]
+            },
+            {
+                "type":"必备工具",
+                "data":[
+                    {
+                        "resource_pic": "accountImages/tool01.jpg",
+                        "resource_name": "定时"
+                    },
+                    {
+                        "resource_pic": "accountImages/tool02.jpg",
+                        "resource_name": "驾驶模式"
+                    },
+                    {
+                        "resource_pic": "accountImages/tool03.jpg",
+                        "resource_name": "青少年模式"
+                    }
+                ]
+            },
+            {
+                "type":"其他服务",
+                "data":[
+                    {
+                        "resource_pic": "accountImages/oservice01.jpg",
+                        "resource_name": "金融福利"
+                    },
+                    {
+                        "resource_pic": "accountImages/oservice02.jpg",
+                        "resource_name": "知识大使"
+                    },
+                    {
+                        "resource_pic": "accountImages/oservice03.jpg",
+                        "resource_name": "免流量特权"
+                    },
+                    {
+                        "resource_pic": "accountImages/oservice04.jpg",
+                        "resource_name": "官方商城"
+                    },
+                    {
+                        "resource_pic": "accountImages/oservice05.jpg",
+                        "resource_name": "商家福利"
+                    },
+                    {
+                        "resource_pic": "accountImages/oservice06.jpg",
+                        "resource_name": "喜马福利社"
+                    },
+                    {
+                        "resource_pic": "accountImages/oservice07.jpg",
+                        "resource_name": "微信服务"
+                    },
+                    {
+                        "resource_pic": "accountImages/oservice08.jpg",
+                        "resource_name": "残障用户"
+                    },
+                    {
+                        "resource_pic": "accountImages/oservice09.jpg",
+                        "resource_name": "大王卡免流"
+                    }
+                ]
+            },
+            {
+                "type":"商务合作与服务",
+                "data":[
+                    {
+                        "resource_pic": "accountImages/coop01.jpg",
+                        "resource_name": "配音服务"
+                    },
+                    {
+                        "resource_pic": "accountImages/coop02.jpg",
+                        "resource_name": "开放平台"
+                    },
+                    {
+                        "resource_pic": "accountImages/coop03.jpg",
+                        "resource_name": "广告合作"
+                    },
+                    {
+                        "resource_pic": "accountImages/coop04.jpg",
+                        "resource_name": "城市合作"
+                    },
+                    {
+                        "resource_pic": "accountImages/coop05.jpg",
+                        "resource_name": "企业版"
+                    },
+                    {
+                        "resource_pic": "accountImages/coop06.jpg",
+                        "resource_name": "会员合作"
+                    },
+                    {
+                        "resource_pic": "accountImages/coop07.jpg",
+                        "resource_name": "版权合作"
+                    }
+                ]
+            }
+        ],
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"books":[
+        {"id":"878911","name":"三国","author":"罗贯中","price":"10.00","img":"img/0.jpg"}, 
+        {"id":"878912","name":"水浒","author":"吴承恩","price":"10.00","img":"img/1.jpg"},
+        {"id":"878913","name":"霸道总裁","author":"熊晓明","price":"10.00","img":"img/2.jpg"},
+		{"id":"878914","name":"时间管理","author":"范钊","price":"50.00","img":"img/3.jpg"},
+		{"id":"878915","name":"学霸养成记","author":"曹雪峰","price":"30.00","img":"img/4.jpg"},
+		{"id":"878916","name":"如何让富婆爱上我","author":"大黄","price":"1.00","img":"img/1.jpg"},
+		{"id":"878917","name":"钢铁是怎样炼成的","author":"奥斯托夫斯基","price":"31.00","img":"img/2.jpg"},
+		{"id":"878918","name":"九阴真经","author":"李祥","price":"110.00","img":"img/3.jpg"}
+    ],
+  
+"readers":[ {"id":"007","name":"张三疯","age":35}, {"id":"008","name":"张四疯","age":32} ],
+"bannerImgs":[
+    "img/0.jpg",
+    "img/1.jpg",
+    "img/2.jpg"
+],
+"banerImgs":[
+    {"lbt_pic":"img/1.jpg"},{"lbt_pic":"img/2.jpg"},{"lbt_pic":"img/3.jpg"},{"lbt_pic":"img/4.jpg"}
+],
+"news":[
+    {"resource_pic":"img1/1.jpg","resource_name":"三体"},
+    {"resource_pic":"img1/2.jpg","resource_name":"：孩子秒懂的中国史"},
+    {"resource_pic":"img1/3.jpg","resource_name":"宝宝巴士·睡前故事"},
+    {"resource_pic":"img1/4.jpg","resource_name":"十万个为什么 "},
+    {"resource_pic":"img1/5.jpg","resource_name":"绝世高手【头陀渊】"},
+    {"resource_pic":"img1/6.jpg","resource_name":"王的女人谁敢动"}
+
+],
+"hot":[
+    {"resource_pic":"img1/7.jpg","resource_name":"猎罪者"},
+    {"resource_pic":"img1/8.jpg","resource_name":"皇家密探"},
+    {"resource_pic":"img1/9.jpg","resource_name":"中国民间故事"},
+    {"resource_pic":"img1/10.jpg","resource_name":"雪中悍刀行"},
+    {"resource_pic":"img1/11.jpg","resource_name":"天命赊刀人"},
+    {"resource_pic":"img1/12.jpg","resource_name":"上门龙婿"}
+],
+"suspense":[
+    {"resource_pic":"img1/41.jpg","resource_name":"茅山镇鬼天师"},
+    {"resource_pic":"img1/42.JPG","resource_name":"医妃独步天下"},
+    {"resource_pic":"img1/43.jpg","resource_name":"穿越女特工"},
+    {"resource_pic":"img1/44.jpg","resource_name":"重生八零小辣妻"},
+    {"resource_pic":"img1/45.jpg","resource_name":"王的女人谁敢动"},
+    {"resource_pic":"img1/46.jpg","resource_name":"我的老千江湖"}
+],
+"music":[
+    {"resource_pic":"img1/26.jpg","resource_name":"总有这样的歌只想一个人听"},
+    {"resource_pic":"img1/27.jpg","resource_name":"《夜色钢琴曲》"},
+    {"resource_pic":"img1/28.jpg","resource_name":"解压民谣｜小惊喜弹唱电台"},
+    {"resource_pic":"img1/29.jpg","resource_name":"经典重现 丨 怀旧老歌"},
+    {"resource_pic":"img1/25.jpg","resource_name":"3D大自然睡前曲"},
+    {"resource_pic":"img1/30.jpg","resource_name":"刘雪枫_音乐之友"}
+],
+
+"sir":[
+    {"resource_pic":"img1/31.jpg","resource_name":"今晚不安婧丨一天一首成名曲"},
+    {"resource_pic":"img1/32.jpg","resource_name":"明星们的声音打造师Manda"},
+    {"resource_pic":"img1/33.jpg","resource_name":"华语经典流行老歌"},
+    {"resource_pic":"img1/34.jpg","resource_name":"经典老哥"},
+    {"resource_pic":"img1/35.jpg","resource_name":"文祺 | 抖音热门歌曲"},
+    {"resource_pic":"img1/30.jpg","resource_name":"经典再现，怀旧老歌"}
+],
+"roll":[
+    {"resource_pic":"img1/36.jpg","resource_name":"经典老歌，那些熟悉的旋律"},
+    {"resource_pic":"img1/37.jpg","resource_name":"超火的车载DJ歌曲"},
+    {"resource_pic":"img1/38.jpg","resource_name":"给你歌一曲"},
+    {"resource_pic":"img1/39.jpg","resource_name":"欧美音乐|值得单曲循环"},
+    {"resource_pic":"img1/40.jpg","resource_name":"70后80后90后最经典老歌1000首"},
+    {"resource_pic":"img1/34.jpg","resource_name":"【3D体验】365天音乐减压之旅"}
+],
+"banerImg":[
+    {"lbt_pic":"img/5.jpg"},{"lbt_pic":"img/6.jpg"},{"lbt_pic":"img/7.jpg"},{"lbt_pic":"img/8.jpg"}
+],
+"banner":[
+    {"lbt_pic":"img/8.jpg"},{"lbt_pic":"img/9.jpg"},{"lbt_pic":"img/10.jpg"},{"lbt_pic":"img/11.JPG"}
+],
+"crosstalk":[
+    {"resource_pic":"img1/13.jpg","resource_name":"德云社相声精选集"},
+    {"resource_pic":"img1/14.jpg","resource_name":"郭德纲高清相声集"},
+    {"resource_pic":"img1/15.jpg","resource_name":"德云社全球巡演旧金山站2017"},
+    {"resource_pic":"img1/16.jpg","resource_name":"乱世枭雄 | 单田芳经典"},
+    {"resource_pic":"img1/17.jpg","resource_name":"郭论3·夜总荟"},
+    {"resource_pic":"img1/18.jpg","resource_name":"岳云鹏孙越爆笑相声合辑"}
+]
+,
+"yuqian":[
+    {"resource_pic":"img1/47.jpg","resource_name":"德云社烧饼相声专场"},
+    {"resource_pic":"img1/48.jpg","resource_name":"尚九熙何九华高清相声集"},
+    {"resource_pic":"img1/49.jpg","resource_name":"张云雷精选相声集"},
+    {"resource_pic":"img1/50.jpg","resource_name":"德云社师徒父子相声大典"},
+    {"resource_pic":"img1/51.jpg","resource_name":"德云社郭德纲相声专场上海站"},
+    {"resource_pic":"img1/52.jpg","resource_name":"德云社纲丝节相声大会2016"}
+]
+,
+"yue":[
+    {"resource_pic":"img1/53.jpg","resource_name":"岳云鹏相声"},
+    {"resource_pic":"img1/54.jpg","resource_name":"岳云鹏相声精选集"},
+    {"resource_pic":"img1/55.jpg","resource_name":"岳云鹏孙越相声集"},
+    {"resource_pic":"img1/56.jpg","resource_name":"端午相声专场厦门站 2017"},
+    {"resource_pic":"img1/51.jpg","resource_name":"岳云鹏孙越爆笑相声合辑"},
+    {"resource_pic":"img1/52.jpg","resource_name":"德云社纲丝节相声大会2016"}
+]
+ }

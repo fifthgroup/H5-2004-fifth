@@ -1,6 +1,9 @@
 <template>
     <div class="swiper-container">
     <div class="swiper-wrapper">
+      <!-- <div class="swiper-slide" v-for="(img,idx) in banner" :key="idx">
+        <img :src="'/static/'+img.lbt_pic" />
+      </div> -->
       <div class="swiper-slide" v-for="(value,key,index) in imgObj" v-if="index>0" :key="key">
             <img :src="'http://47.96.140.89:8080/ssm-1.0-SNAPSHOT/'+value"/>
       </div>
@@ -17,7 +20,7 @@ export default {
     name:"crosstalk",
      data(){
         return{
-            imgObj:{
+           imgObj:{
               lbt_pic1:"",
               lbt_pic2:"",
               lbt_pic3:"",
@@ -29,8 +32,8 @@ export default {
     axios({
       url: "http://47.96.140.89:8080/ssm-1.0-SNAPSHOT/lbt/findById?lbt_id=2"
     }).then(res => {
-      this.banner = res.data.data[0];
-      // console.log(res.data)
+      this.imgObj = res.data.data[0];
+      console.log("this.banner",this.banner )
       this.$nextTick(() => {
         // console.log(this);
         this.showSwiper();  

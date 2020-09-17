@@ -1,0 +1,107 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "551964",
+      "name": "箭头",
+      "font_class": "arrow-right-copy",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "586756",
+      "name": "首页",
+      "font_class": "weibiaoti1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "810220",
+      "name": "箭头",
+      "font_class": "jiantou-copy",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "1008538",
+      "name": "语音",
+      "font_class": "yuyin",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "1163334",
+      "name": "搜索",
+      "font_class": "search",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "6638079",
+      "name": "首页选中",
+      "font_class": "shouyexuanzhong",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "7391140",
+      "name": "语音",
+      "font_class": "yuyin1",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "7817216",
+      "name": "分类",
+      "font_class": "fenlei",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "7956376",
+      "name": "个人账号管理",
+      "font_class": "gerenzhanghaoguanli",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "8727201",
+      "name": "星星",
+      "font_class": "xingxing",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "9810108",
+      "name": "分享",
+      "font_class": "fenxiang_2",
+      "unicode": "e52c",
+      "unicode_decimal": 58668
+    },
+    {
+      "icon_id": "9974429",
+      "name": "省略号",
+      "font_class": "shenglvehao",
+      "unicode": "e708",
+      "unicode_decimal": 59144
+    },
+    {
+      "icon_id": "15391378",
+      "name": "发现",
+      "font_class": "faxian",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "16365909",
+      "name": "账号中心 账号管理",
+      "font_class": "zhanghaozhongxinzhanghaoguanli",
+      "unicode": "e6a0",
+      "unicode_decimal": 59040
+    }
+  ]
+}

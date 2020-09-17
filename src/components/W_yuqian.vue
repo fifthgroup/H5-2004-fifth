@@ -2,10 +2,12 @@
      <div class="box">
       <div class="title">相声专场</div>
       <ul>
-          <li v-for="(book,v) in books" :key="v">
+          <router-link :to="'/liebiao/'+26">
+            <li v-for="(book,v) in books" :key="v">
                 <img :src="'http://47.96.140.89:8080/ssm-1.0-SNAPSHOT'+book.resource_pic">
                 <p>{{book.resource_name}}</p>
             </li>
+          </router-link>
       </ul>
   </div>
 </template>
@@ -21,7 +23,7 @@ export default {
     },
     created(){
         axios({
-            url:"/ssm-1.0-SNAPSHOT/resource/findByResource_id/?findByResource_id=12",
+            url:"/ssm-1.0-SNAPSHOT/resource/findByResource_id/?findByResource_id=13",
             method:"get"
         }).then((res)=>{
             this.books=res.data.data;

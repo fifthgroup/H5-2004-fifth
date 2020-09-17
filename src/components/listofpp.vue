@@ -1,8 +1,11 @@
 <template>
     <div class="app">
+        
         <ul>
+            <p class="iconfont icon-zuojiantou" @click="fn"></p>
             <li v-for="(v,i) in biao" :key="i">
-                <img :src="'/static/'+v.resource_pic" >
+                <img :src="'http://47.96.140.89:8080/ssm-1.0-SNAPSHOT'+v.resource_pic" >
+                
                 <p>{{v.resource_name}}</p>
                 <h5>全网最好听电台</h5>
                 <i class="iconfont icon-erji">55.5万</i>
@@ -16,6 +19,12 @@
 import axios from "axios"
 export default {
     name:"listofpp",
+    props: ["name"],
+    methods:{
+        fn(){
+            this.$router.go(-1)
+        }
+    },
     data(){
         return{
             biao:[]
@@ -23,10 +32,10 @@ export default {
     },
     created(){
         axios({
-            url:"/suspense",
+            url:"http://47.96.140.89:8080/ssm-1.0-SNAPSHOT/resource/findByMh?name="+this.name,
             method:"get"
         }).then((res)=>{
-            this.biao=res.data
+            this.biao=res.data.data;
             console.log(this.data)
         })
     }
@@ -35,6 +44,9 @@ export default {
 
 <style scoped>
 @import url(../assets/font1/iconfont.css);
+    .icon-zuojiantou{
+        font-size:0.4rem;
+    }
     ul{
         width:90%;
         height: 6rem;
@@ -58,7 +70,7 @@ export default {
          float:left;
      }
      p{
-         float:right;
+         /* float:right; */
          font-size: 0.2rem;
          margin-top: 0.1rem;
          margin-right: 0.3rem;

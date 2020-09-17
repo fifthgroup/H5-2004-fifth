@@ -2,9 +2,9 @@
   <div class="box">
       <div class="title">热门音乐</div>
       <ul>
-          <li v-for="(book,v) in books" :key="v">
-                    <img :src="'http://47.96.140.89:8080/ssm-1.0-SNAPSHOT'+book.resource_pic">
-                    <p>{{book.resource_name}}</p>
+          <li v-for="book in books" :key="book.id">
+              <img :src="'/static/'+book.resource_pic">
+              <p>{{book.resource_name}}</p>
           </li>
       </ul>
   </div>
@@ -21,7 +21,7 @@ export default {
     },
     created(){
         axios({
-           url:"/ssm-1.0-SNAPSHOT/resource/findByResource_id/?findByResource_id=11",
+            url:"/music",
             method:"get"
         }).then((res)=>{
             this.books=res.data;

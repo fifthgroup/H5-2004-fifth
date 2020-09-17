@@ -44,11 +44,15 @@ export default {
     };
   },
   created() {
-    // axios({
-    //   url: "/ssm-1.0-SNAPSHOT/resource/findByResource_id/?findByResource_id=22",
-    // }).then((res) => {
-    //   this.likeList = res.data.data;
-    // });
+    axios({
+      url: "/ssm-1.0-SNAPSHOT/resource/findByResource_id/?findByResource_id=22",
+    }).then((res) => {
+      for(let i=0;i<res.data.data.length/2;i++){
+        this.likeList.push(res.data.data[i]);
+      }
+    });
+    this.index++;
+  },
 
     // axios({
     //   url: "/likeList",
@@ -61,17 +65,29 @@ export default {
     // });
     // this.index++;
     
-    axios({
-      url: "/ssm-1.0-SNAPSHOT/resource/findByResource_id/?findByResource_id=22",
-    }).then((res) => {
-      for (let i = 0; i < res.data.data.length / 2; i++) {
-        this.likeList.push(res.data.data[i]);
-      }
-    });
-    this.index++;
-  },
+    // axios({
+    //   url: "/ssm-1.0-SNAPSHOT/resource/findByResource_id/?findByResource_id=22",
+    // }).then((res) => {
+    //   // res.data = res.data
+    //   console.log(res.data.data);
+    //   for (let i = 0; i < res.data.length / 2; i++) {
+    //     this.likeList.push(res.data[i]);
+    //   }
+    //   // console.log(this.likeList);
+    // });
+    // this.index++;
+  
   methods: {
     change() {
+      //   console.log("被点击了");
+      //  this.type= (this.type=="likeList01"?"likeList02":"likeList01");
+      //   console.log(this.type);
+      //    axios({
+      //   url: "/"+this.type,
+      // }).then((res) => {
+      //   this.likeList = res.data;
+      // });
+
       if (this.index == 2) {
         this.index = 0;
         this.index++;
@@ -80,17 +96,21 @@ export default {
         axios({
           url: "/ssm-1.0-SNAPSHOT/resource/findByResource_id/?findByResource_id=22",
         }).then((res) => {
+          // res.data = res.data
           for (let i = 0; i < res.data.data.length / 2; i++) {
             this.likeList.push(res.data.data[i]);
           }
+          // console.log(this.likeList);
         });
       } else if (this.index == 1) {
         axios({
           url: "/ssm-1.0-SNAPSHOT/resource/findByResource_id/?findByResource_id=22",
         }).then((res) => {
           this.likeList = [];
+          // console.log(this.likeList);
           for (let i = res.data.data.length / 2; i < res.data.data.length; i++) {
             this.likeList.push(res.data.data[i]);
+            // console.log(this.likeList);
           }
         });
         this.index++;

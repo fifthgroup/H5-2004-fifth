@@ -25,7 +25,7 @@
         <!-- 放大镜图标 -->
         <span class="search iconfont icon-fangdajingsousuo"></span>
         <!-- 搜索框 -->
-        <input class="search_wrap" type="text" placeholder="武动乾坤" />
+        <router-link to="seek" ><input class="search_wrap" type="text" placeholder="武动乾坤" /></router-link>
         <!-- 语音图标 -->
         <span class="voice iconfont icon-yuyin"></span>
       </div>
