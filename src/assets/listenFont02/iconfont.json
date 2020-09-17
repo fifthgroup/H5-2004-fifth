@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4488848",
+      "name": "感兴趣",
+      "font_class": "ganxingqu",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    }
+  ]
+}
